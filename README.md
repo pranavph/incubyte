@@ -18,7 +18,7 @@
 8) Configured Credentials using Pipeline Syntax Section. Selected Sample Step Section and selected 
  “ withCredentials: Bind Credentials to variables. Next Selected Secret Text subsection provided under Bindings Section. Provided Variable name as Dockerpwd. Also added credentials in the add credentials section provided right below Bindings Section.
 
-9) Used Build Now Option. Done. Below are attached. Please test the application by adding “/<Your-Name>” after the application URL.
+9) Used Build Now Option. Done. Below are attached. Please test the application by adding “/ with Your-Name” after the application URL.
 
 
 repository URL: - https://github.com/pranavph/incubyte
