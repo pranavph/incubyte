@@ -2,10 +2,10 @@
 echo " Git Installation Starts . "
 sleep 2s
 yum update -y
-    yum install git -y
-    git --version
-    git config --global user.name "pranavph"
-    git config --global user.email "hondraopranav035@gmail.com"
+yum install git -y
+git --version
+git config --global user.name "pranavph"
+git config --global user.email "hondraopranav035@gmail.com"
 echo " Jenkins Installation Complete !! "
 sleep 2s
 echo " Docker Installation Starts . "
