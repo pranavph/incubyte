@@ -5,7 +5,7 @@
 
 2) Created key pair needed to communicate with Amazon Instance.
 
-3) Connected with Amazon Instance and installed git, docker and Jenkins( also, attached Automated Script in the git repo ).
+3) Connected with Amazon Instance and installed git, docker and Jenkins.
 
 4) Logged in to Jenkins ( Created user Pranav).
 
