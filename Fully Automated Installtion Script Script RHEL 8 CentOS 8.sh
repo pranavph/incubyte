@@ -6,7 +6,7 @@ yum install git -y
 git --version
 git config --global user.name "pranavph"
 git config --global user.email "hondraopranav035@gmail.com"
-echo " Jenkins Installation Complete !! "
+echo " Git Installation Complete !! "
 sleep 2s
 echo " Docker Installation Starts . "
 sleep 2s
